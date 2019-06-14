@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT testehooks_4660.wsgi:application
